@@ -1,0 +1,6 @@
+F:\CSharp基础练习题\CSharp基础练习题_26\bin\Debug\CSharp基础练习题_26.exe.config
+F:\CSharp基础练习题\CSharp基础练习题_26\bin\Debug\CSharp基础练习题_26.exe
+F:\CSharp基础练习题\CSharp基础练习题_26\bin\Debug\CSharp基础练习题_26.pdb
+F:\CSharp基础练习题\CSharp基础练习题_26\obj\Debug\CSharp基础练习题_26.exe
+F:\CSharp基础练习题\CSharp基础练习题_26\obj\Debug\CSharp基础练习题_26.pdb
+F:\CSharp基础练习题\CSharp基础练习题_26\obj\Debug\CSharp基础练习题_26.csprojResolveAssemblyReference.cache

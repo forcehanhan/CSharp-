@@ -1,0 +1,12 @@
+F:\CSharp基础练习题\CSharp基础练习题_58\bin\Debug\CSharp基础练习题_58.exe.config
+F:\CSharp基础练习题\CSharp基础练习题_58\bin\Debug\CSharp基础练习题_58.exe
+F:\CSharp基础练习题\CSharp基础练习题_58\bin\Debug\CSharp基础练习题_58.pdb
+F:\CSharp基础练习题\CSharp基础练习题_58\obj\Debug\CSharp基础练习题_58.csprojResolveAssemblyReference.cache
+F:\CSharp基础练习题\CSharp基础练习题_58\obj\Debug\CSharp基础练习题_58.exe
+F:\CSharp基础练习题\CSharp基础练习题_58\obj\Debug\CSharp基础练习题_58.pdb
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_58\bin\Debug\CSharp基础练习题_58.exe.config
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_58\bin\Debug\CSharp基础练习题_58.exe
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_58\bin\Debug\CSharp基础练习题_58.pdb
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_58\obj\Debug\CSharp基础练习题_58.csprojAssemblyReference.cache
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_58\obj\Debug\CSharp基础练习题_58.exe
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_58\obj\Debug\CSharp基础练习题_58.pdb

@@ -1,0 +1,6 @@
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_50\bin\Debug\CSharp基础练习题_50.exe.config
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_50\bin\Debug\CSharp基础练习题_50.exe
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_50\bin\Debug\CSharp基础练习题_50.pdb
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_50\obj\Debug\CSharp基础练习题_50.csprojAssemblyReference.cache
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_50\obj\Debug\CSharp基础练习题_50.exe
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_50\obj\Debug\CSharp基础练习题_50.pdb

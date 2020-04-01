@@ -1,0 +1,12 @@
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_56\bin\Debug\CSharp基础练习题_56.exe.config
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_56\bin\Debug\CSharp基础练习题_56.exe
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_56\bin\Debug\CSharp基础练习题_56.pdb
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_56\obj\Debug\CSharp基础练习题_56.csprojAssemblyReference.cache
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_56\obj\Debug\CSharp基础练习题_56.exe
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_56\obj\Debug\CSharp基础练习题_56.pdb
+F:\CSharp基础练习题\CSharp基础练习题_56\bin\Debug\CSharp基础练习题_56.exe.config
+F:\CSharp基础练习题\CSharp基础练习题_56\obj\Debug\CSharp基础练习题_56.exe
+F:\CSharp基础练习题\CSharp基础练习题_56\obj\Debug\CSharp基础练习题_56.pdb
+F:\CSharp基础练习题\CSharp基础练习题_56\bin\Debug\CSharp基础练习题_56.exe
+F:\CSharp基础练习题\CSharp基础练习题_56\bin\Debug\CSharp基础练习题_56.pdb
+F:\CSharp基础练习题\CSharp基础练习题_56\obj\Debug\CSharp基础练习题_56.csprojResolveAssemblyReference.cache

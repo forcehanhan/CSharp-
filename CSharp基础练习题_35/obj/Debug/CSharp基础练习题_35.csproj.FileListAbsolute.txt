@@ -1,0 +1,5 @@
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_35\bin\Debug\CSharp基础练习题_35.exe.config
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_35\bin\Debug\CSharp基础练习题_35.exe
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_35\bin\Debug\CSharp基础练习题_35.pdb
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_35\obj\Debug\CSharp基础练习题_35.exe
+C:\Users\hanjunjie\source\repos\CSharp基础练习题\CSharp基础练习题_35\obj\Debug\CSharp基础练习题_35.pdb
